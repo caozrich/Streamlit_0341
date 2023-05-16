@@ -41,7 +41,7 @@ apply_styles()
 
 title_placeholder = st.empty()
 title_placeholder.markdown("<h1 style='text-align: center;'>SISTEMA DE RECOMENDACIÓN DE PELICULAS</h1>", unsafe_allow_html=True) 
-st.sidebar.image("app/img/icon.png", width=300)
+st.sidebar.image("icon.png", width=300)
 st.sidebar.title("Pelicula de Referencia")
 st.sidebar.write("")
 pelicula = st.sidebar.text_input("Ingrese el nombre de la película:")
