@@ -29,6 +29,6 @@ def apply_styles():
             unsafe_allow_html=True
         )
 
-    set_bg_hack('app/img/background.png')
+    set_bg_hack('background.png')
 
 
