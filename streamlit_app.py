@@ -76,4 +76,4 @@ if st.sidebar.button("Recomendar", key="recomendar", on_click=None, args=None, k
                 
 st.sidebar.write(" ")
 st.sidebar.write(" ")
-st.sidebar.markdown("[Link del Repositorio](https://github.com/caozrich/ML_DevOps-Movie-Recomendation-System)")            
+st.sidebar.markdown("[Link del Repositorio](https://github.com/caozrich/FilmRecSys-ML-DevOps)")            
