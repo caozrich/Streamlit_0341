@@ -5,7 +5,7 @@ from tmdbv3api import TMDb
 from tmdbv3api import Movie
 
 tmdb = TMDb()
-tmdb.api_key = "91338b7f94f789d802932916cc246ea6" # Tu api key de tmdb
+tmdb.api_key = "9cafa165b5843fe30a609c08db42a34c" # Tu api key de tmdb
 
 API_URL = "https://pimlops-richardl.onrender.com/recomendacion/"
 
